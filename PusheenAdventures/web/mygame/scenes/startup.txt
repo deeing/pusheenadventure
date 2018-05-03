@@ -1,0 +1,28 @@
+*comment Our First Game
+
+*title Pusheen Adventures
+*author Kiri and David
+*scene_list
+  startup
+
+You want to go on a "Fantastic Hawaii Adventure" with the love of you life.
+However, airplane tickets are stupidly expensive these days and you only have enough money for one ticket.
+How will you get to Hawaii?
+
+*choice
+  # Save up enough money for another ticket (like a nerd).
+    Wow. Are you really	 that lame? Go do your taxes or something, nerd.
+    I hope you enjoy living your life as far away from the edge as humanly possible.
+    You disgust me.
+    *finish
+  # Get in rowboat and paddle to Hawaii because you're friggin swoll.
+    Do people really say "swol" anymore? Well, regardless, I admire your moxie.
+    You manage to make it to Hawaii by sheer force of will and buffness.
+    However, by the time you make it there your vacation time is up and you have to paddle home.
+    Sucks.
+    *finish
+  # Sneak your love past airport security in a giant Pusheen doll. Obviously.
+    Clearly the correct and only choice. We have yet to write this part but believe
+    you me it's going to be legendary. There's going to be intrigue, violence, romance.
+    Lasers! Dinosaurs! Who KNOWS what else! Stay tuned kids.
+    *finish
